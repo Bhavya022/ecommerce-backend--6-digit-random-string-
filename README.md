@@ -104,3 +104,5 @@ Copy code
 docker run -d --name backend-container -p 3000:3000 backend-image
 docker run -d --name frontend-container -p 3001:80 frontend-image
 The application should now be accessible at http://localhost:3001.
+## Deployed Link 
+https://venerable-youtiao-c471d9.netlify.app/
